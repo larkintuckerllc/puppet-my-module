@@ -5,5 +5,5 @@
 # @example
 #   include my_module
 class my_module {
-  notify { "hello world": }
+  notify { "hola mundo": }
 }
